@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE enterprise SYSTEM "arch.dtd">
+<enterprise>
+
+<employee id="1">
+
+<prenom>Chargui</prenom>
+<nom>Taieb</nom>
+<dateNaissance>Wed Mar 19 01:18:00 WAT 7845</dateNaissance>
+</employee>
+
+<employee id="2">
+<prenom>Jrad</prenom>
+<nom>Bayrem</nom>
+<dateNaissance>Wed Mar 19 01:18:00 WAT 7845</dateNaissance>
+</employee>
+
+<employee id="3">
+<prenom>rADHOUAN</prenom>
+<nom>Rouached</nom>
+<dateNaissance>Wed Mar 19 01:18:00 WAT 7845</dateNaissance>
+</employee>
+
+
+</enterprise>

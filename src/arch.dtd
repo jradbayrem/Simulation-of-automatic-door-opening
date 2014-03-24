@@ -1,0 +1,3 @@
+<!ELEMENT enterprise  (employee)>
+<!ELEMENT employee (prenom, nom, dateNaissance)>
+<!ATTLIST employee id ID #REQUIRED>
